@@ -1,0 +1,11 @@
+Model Information:
+* title:	Door Wooden Decaying
+* source:	https://sketchfab.com/3d-models/door-wooden-decaying-fc72d27f6a6d4c4c8032e613756c76da
+* author:	Thomas Hollaender (https://sketchfab.com/thomashollaender)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Door Wooden Decaying" (https://sketchfab.com/3d-models/door-wooden-decaying-fc72d27f6a6d4c4c8032e613756c76da) by Thomas Hollaender (https://sketchfab.com/thomashollaender) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fnaf 2 Hex Plush
+* source:	https://sketchfab.com/3d-models/fnaf-2-hex-plush-0910006f417d4075be2b34cf1925b6dc
+* author:	puppeteer (https://sketchfab.com/RealPuppeteer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fnaf 2 Hex Plush" (https://sketchfab.com/3d-models/fnaf-2-hex-plush-0910006f417d4075be2b34cf1925b6dc) by puppeteer (https://sketchfab.com/RealPuppeteer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

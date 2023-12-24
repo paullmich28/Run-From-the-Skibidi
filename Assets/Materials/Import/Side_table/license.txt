@@ -1,0 +1,11 @@
+Model Information:
+* title:	Side table
+* source:	https://sketchfab.com/3d-models/side-table-a248fe86101f4b309d0108975084737c
+* author:	AnnPiskacov (https://sketchfab.com/AndreaPiskacova)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Side table" (https://sketchfab.com/3d-models/side-table-a248fe86101f4b309d0108975084737c) by AnnPiskacov (https://sketchfab.com/AndreaPiskacova) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
